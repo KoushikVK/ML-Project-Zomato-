@@ -1,5 +1,7 @@
 # ML-Project-Zomato-
 ENd to End Zomato ML Project
+
+
 #ABSTRACT
 
 Zomato is one of the top online meal delivery applications, providing users with ratings and reviews on restaurants across India.
@@ -16,3 +18,4 @@ With such a high demand for eateries, it has become critical to research a locat
 
 • Restaurant location • Food price approximation • Theme-based restaurant or not • Which neighborhood of that city has the most restaurants serving that cuisine?
 • The demands of individuals looking for the greatest food in the area • Is a certain neighborhood well-known for its own type of cuisine?
+![image](https://user-images.githubusercontent.com/51470326/150697338-4267db04-514d-4e3d-b836-b510f2009c43.png)
